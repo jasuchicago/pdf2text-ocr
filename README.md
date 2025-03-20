@@ -8,4 +8,4 @@ It can be useful if you are getting gibberish when copying and pasting text from
 
 ## How it works
 
-Each page of the PDF is converted to an image using [PDF.js](https://mozilla.github.io/pdf.js/) and each image is converted to text using [Tesseract.js](https://github.com/naptha/tesseract.js). The results are displayed in the browser allowing users to copy the text, search, etc.
+Each page of the PDF is converted to an image using [PDF.js](https://mozilla.github.io/pdf.js/) and each image is converted to text using [Tesseract.js](https://github.com/naptha/tesseract.js). The results are displayed in the browser allowing users to copy the text, or save to a `.txt` file.
